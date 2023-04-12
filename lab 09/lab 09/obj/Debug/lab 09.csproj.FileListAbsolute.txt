@@ -1,0 +1,11 @@
+C:\Users\everu\source\repos\lab 09\lab 09\bin\Debug\lab 09.exe.config
+C:\Users\everu\source\repos\lab 09\lab 09\bin\Debug\lab 09.exe
+C:\Users\everu\source\repos\lab 09\lab 09\bin\Debug\lab 09.pdb
+C:\Users\everu\source\repos\lab 09\lab 09\obj\Debug\lab 09.csproj.AssemblyReference.cache
+C:\Users\everu\source\repos\lab 09\lab 09\obj\Debug\lab 09.csproj.SuggestedBindingRedirects.cache
+C:\Users\everu\source\repos\lab 09\lab 09\obj\Debug\lab_09.Form1.resources
+C:\Users\everu\source\repos\lab 09\lab 09\obj\Debug\lab_09.Properties.Resources.resources
+C:\Users\everu\source\repos\lab 09\lab 09\obj\Debug\lab 09.csproj.GenerateResource.cache
+C:\Users\everu\source\repos\lab 09\lab 09\obj\Debug\lab 09.csproj.CoreCompileInputs.cache
+C:\Users\everu\source\repos\lab 09\lab 09\obj\Debug\lab 09.exe
+C:\Users\everu\source\repos\lab 09\lab 09\obj\Debug\lab 09.pdb
